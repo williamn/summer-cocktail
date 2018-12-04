@@ -1,6 +1,6 @@
 # Summer cocktail
 
-Example on how to use Go and Cucumber.
+Example on how to use Gin and Cucumber.
 
 ## Getting started
 
